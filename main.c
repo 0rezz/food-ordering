@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 
+
 int main() {
     char info[100];
     double foodItemPrice=0;
