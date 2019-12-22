@@ -2,6 +2,7 @@
 // Created by htbc4 on 12/19/2019.
 //
 
+
 #ifndef UNTITLED_USER_H
 typedef struct _user{
     char *username;
