@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(food_ordering C)
+project(untitled)
 
-set(CMAKE_C_STANDARD 99)
 
-add_executable(food_ordering main.c)
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(untitled user.h user.c main.c drinks.h drinks.c)
